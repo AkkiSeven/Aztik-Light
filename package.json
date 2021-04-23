@@ -1,39 +1,40 @@
 {
-    "name": "aztik-light",
-    "displayName": "Aztik Light",
-    "description": "A amazing light theme for coding!!!",
-    "version": "0.0.1",
-    "publisher": "Aztik",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/AkkiSeven/Aztik-Light"
-    },
-    "keywords": [
-      "theme",
-      "light theme",
-      "nice theme",
-      "good theme",
-      "awesome theme",
-      "amazing theme",
-      "best theme",
-      "akki theme",
-      "aztik theme",
-      "aztik",
-      "akki"
-    ],
-    "engines": {
-        "vscode": "^1.46.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Aztik Light Theme",
-                "uiTheme": "vs",
-                "path": "./themes/Aztik Light Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "aztik-light",
+  "displayName": "Aztik Light",
+  "description": "A amazing light theme for coding!!!",
+  "icon": "logo_200x200.png",
+  "version": "1.0.0",
+  "publisher": "Aztik",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AkkiSeven/Aztik-Light"
+  },
+  "keywords": [
+    "theme",
+    "light theme",
+    "nice theme",
+    "good theme",
+    "awesome theme",
+    "amazing theme",
+    "best theme",
+    "akki theme",
+    "aztik theme",
+    "aztik",
+    "akki"
+  ],
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aztik Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Aztik Light Theme-color-theme.json"
+      }
+    ]
+  }
 }
