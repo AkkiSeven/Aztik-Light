@@ -1,0 +1,21 @@
+{
+    "name": "aztik-light",
+    "displayName": "Aztik Light",
+    "description": "A amazing light theme for coding!!!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Aztik Light Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Aztik Light Theme-color-theme.json"
+            }
+        ]
+    }
+}
